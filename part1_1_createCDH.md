@@ -63,6 +63,7 @@
 ![](./image/1_wget_cm_repo.png)
 
 baseurl에 5.15.2로 설정 
+
 ![](./image/1_vi_cm_repo.png)
 ![](./image/1_specify_cm_version.png)
 ![](./image/1_rpm_cm.png)
